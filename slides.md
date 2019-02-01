@@ -24,15 +24,18 @@ _Vitrine Humanités Numériques / DH Showcase 2019_
 
 Le projet Revue 2.0 vise à repenser le rôle des revues savantes dans les sciences humaines et sociales et à accompagner les acteurs de l’édition scientifique dans leur transition numérique.
 
-§§§§§SLIDEmoveDown§§§§§
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="graphics/equipeecrinum.png" data-background-size="contain" -->
 <!--  .slide: class="hover"-->
 
 ## un travail d'équipe <!-- .element: style="padding-top:0.8em" -->
 
+===
+le projet est dirigé par Marcello Vitali Rosati et porté par sa chaire de recherche sur les écritures numériques.
 
-§§§§§SLIDEmoveDown§§§§§
+C'est donc comme d'habitude un travail d'équipe.
 
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Le partenariat
 
 - <i class="fa fa-arrow-right"></i>  des revues
@@ -58,11 +61,10 @@ Le projet Revue 2.0 vise à repenser le rôle des revues savantes dans les scien
 
 Le projet rassemble un partenariat particulièrement intéressant :
 
-1. d'une part il intègre les deux principaux diffuseurs francophones en sciences humaines et sociales, OpenEditions et Erudit, ainsi que Human-num et l'équipe d'Isidore qui est un agrégateur et moteur de recherche spécialisé pour les SHS
-2. d'autre part, 8 revues partenaires sont mobilisées pour participer en tant qu'expert de l'édition scientifique, mais aussi en tant que terrain d'observation et d'expérimentation, engagées ainsi dans la réflexion et l'implémantation de nouveaux modèles éditoriaux.
+1. d'une part il intègre les deux principaux diffuseurs francophones en sciences humaines et sociales, OpenEditions et Erudit, ainsi que Human-num avec son service Isidore qui offre un moteur de recherche spécialisé pour les SHS
+2. d'autre part, le projet mobilise 8 revues partenaires, qui participent 1) en tant qu'expert de l'édition scientifique, mais aussi 2) en tant que terrain d'observation et d'expérimentation. Les revues sont donc engagées avec nous dans la recherche, aux côtés des co-chercheurs du projet.
 
-§§§§§SLIDEmoveDown§§§§§
-
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Objectifs
 
 &nbsp;
@@ -73,44 +75,45 @@ Le projet rassemble un partenariat particulièrement intéressant :
 <!-- .element: style="list-style-type:none;" -->
 
 ===
-C'est un des objectifs de recherche du projet.
+Le projet est un projet Developpement Partenariat du CRSH, et a vocation à se poursuivre dans un projet Partenariat, avec deux horizons :
 
+1. proposer un modèle épistémologique pour les revues savantes en shs adapté à l'environnement numérique.
+<!-- Comment alors intégrer une revue, un dossier ou même un seul article dans un écosystème numérique en évolution constante ? Quelles doivent être aujourd'hui les tâches éditoriales, non plus seulement en amont de la publication, mais une fois que la revue a été publiée en ligne, afin de rejoindre les communautés savantes qui se sont formées sur le web ? -->
+2. proposer des modèles éditoriaux concrets, avec des outils adaptés aux pratiques, aux cultures et aux besoins.
 
-1. proposer un modèle épistémologique pour les revues savantes en shs à l'époque du numérique : il s'agira de retracer, par notre travail de recherche, la mission historique des revues savantes, afin de déterminer comment celle-ci peut être remplie, sinon redéfinie, à l'époque du numérique. L'enjeu de la transition numérique n'est en effet pas seulement une question technique : la généralisation du libre accès, par exemple, est typiquement le signe d'une réévaluation du rôle et de la mission de l'éditeur. En investissant peu à peu le web, la revue change le sens même du terme « publication » pour le rapporter à son sens premier : rendre public. Comment intégrer une revue, un dossier ou même un seul article dans un écosystème numérique en évolution constante ? Quelles doivent être aujourd'hui les tâches éditoriales, non plus seulement en amont de la publication, mais une fois que la revue a été publiée en ligne, afin de rejoindre les communautés savantes qui se sont formées sur le web ?
-2. proposer des modèles éditoriaux concrets, avec des outils adaptés aux pratiques, aux cultures et aux besoins : concrètement, il s'agira de
-produire un cahier des charges à destination des différents acteurs de l'édition savante (éditeurs, diffuseurs, agrégateurs).
-Nos partenaires sur ce projet - en particulier les diffuseurs et l'agrégateur - ont fourni d'importants efforts afin d'assurer
-l'intégration, la pérennité et la visibilité des revues sur le web. Ce projet devra leur donner des moyens supplémentaires
-pour la création d'outils et de protocoles mieux adaptés aux besoins des chercheurs et des éditeurs.
+Fondamentalement, on se posera la question : «qu'est ce qu'une revue ?» «qu'est ce qu'une revue pourrait ou devrait être dans l'environnement numérique.»
 
+Nous essayons de retracer la mission historique des revues savantes, afin de déterminer comment celle-ci peut être remplie, sinon redéfinie, à l'époque du numérique. L'enjeu de la transition numérique n'est pas seulement une question technique. C'est d'abord une question épistémologique qui demande à réévaluer le rôle et la mission de l'éditeur. L'acte et le sens même de la publication s'est transformé avec l'avènement du web.
 
+Publier revient à son sens premier : rendre public. Ce nouvel environnement a bouleversé la façon dont se construit l'autorité et la légitimité scientifique. C'est tout le fondement épistémologique sur lequel repose la science et les institutions académiques qui doit être repensé. Ce sera le premier objectif théorique du projet.
 
-- qu'est ce qu'une revue ?
-- qu'est ce qu'on voudrait qu'une revue soit ?
+Pour le second, il s'agira de produire un cahier des charges à destination des différents acteurs de l'édition savante (éditeurs, diffuseurs, agrégateurs).
 
-- un enjeu de capacitation, d'empowerment, de littératie : accompagner les revues et leurs auteurs dans un apprentissage ciblé.
+Il y a là un enjeu de capacitation des praticiens de l'édition, mais aussi des chercheurs et des auteurs, vers une nouvelle littératie numérique.
 
-§§§§§SLIDEmoveDown§§§§§
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
 ### Pistes théoriques
 
 &nbsp;
 
-- <i class="fa fa-arrow-right"></i>  conversation
 - <i class="fa fa-arrow-right"></i>  espace public
+- <i class="fa fa-arrow-right"></i>  conversation
 
 <!-- .element: style="list-style-type:none;" -->
 
 ===
 
-- comment l'environnemnt numérique peut être mis au service d'un renouvellement de la vocation des revues ?
-- la piste  principale pour nous, c'est la conversation.
- la revue, à l'époque où la possibilité de diffusion des contenus est mulitipliée par les possibilités du numérique, la piste, c'est d'aller revoir la vocation initiale des revues : d'être un espace pour la conversation savante.
-- la revue ne doit pas le lieu de la diffusion des résultats de recherche, c'est le lieu de la production des résultats de recherche de la communauté, surtout en shs.
+- Nous l'avons vu, en modifiant les mécanismes de l'autorité, c'est en fait la structure de l'espace qui est transformé. L'édition et l'éditorialisation se trouve au coeur des processus de production de l'espace, et pas seulement de l'espace numérique.
 
-- la piste de l'espace public
+Une de nos pistes théoriques est donc que la revue a l'opportunité de réinvestir l'espace public, pas seulement dans une dynamique d'ouverture, des cercles académiques vers des cercles élargis, mais surtout en réinventant des formes d'espaces publics.
 
-§§§§§SLIDEmoveDown§§§§§
+Une seconde piste théorique, est celle de la conversation. A partir du constat que la grande conversation scientifique s'opère aujourd'hui davantage dans des espaces alternatifs, les blogs, les réseaux sociaux, les listes de diffusions, notre hypothèse est celle d'un modèle éditorial conversationnel.
+
+Je n'en dis pas plus, puisque j'avais déjà présenté la conversation l'année dernière.
+
+
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
 |périodes | phases|
 |:--|:--|
@@ -127,7 +130,11 @@ pour la création d'outils et de protocoles mieux adaptés aux besoins des cherc
 
 <!-- .element: style="width:40%;  float:left;" -->
 
-§§§§§SLIDEmoveDown§§§§§
+===
+le projet dure 3 ans. Nous l'avons découpé en 3 phases : observations des pratiques éditoriales de nos partenaires, conceptions de protocoles éditoriaux, d'outils, de modèles, qui seront ensuite expérimentés dans la 3eme phase.
+
+
+%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Phase 1 - Observation des pratiques
 
 &nbsp;
@@ -141,6 +148,8 @@ pour la création d'outils et de protocoles mieux adaptés aux besoins des cherc
 
 
 ===
+Nous avons démarré en oct 2018.
+
 La première phase du projet consiste à aller observer les pratiques des différents partenaires et en particulier à décrire le processus éditorial des revues. Cette description a pour objectif de comprendre le modèle épistémologique sous-jacent au fonctionnement des revues en SHS : quelles sont les voies de communication ? quels sont les artefacts technique ou éditoriaux participant à la construction de l'autorité ? pour le dire autrement, qui légitime, et comme se construit la légitimité de ce qui ?
 
 Cette phase mobilise les revues partenaires autour de quatre activités :
