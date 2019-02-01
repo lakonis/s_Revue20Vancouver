@@ -1,21 +1,14 @@
-## Stylo
+## Revue 2.0
 
-#### éditeur sémantique pour les humanités
+> repenser les revues savantes en SHS
 
 
-<!-- ##### remettre l'édition scientifique dans les mains de l'auteur -->
-
-> Dans l'environnement numérique,  
-> écrire = écrire + structurer.
-
-&nbsp;
-
-Nicolas Sauret, Marcello Vitali-Rosati et Arthur Juchereau
+Nicolas Sauret, Jeanne Hourez, Juliette De Mayer, Servanne Monjour, Michael E. Sinatra, Marcello Vitali-Rosati
 <!-- .element: style="font-size:1.8rem" -->
 
 ---
 
-présentation: [nicolassauret.net/s_StyloVitrineDH](http://nicolassauret.net/s_StyloVitrineDH)
+présentation: [nicolassauret.net/s_Revue20VitrineDH](http://nicolassauret.net/s_Revue20VitrineDH)
 
 <!-- .element: style="font-size:1.5rem" -->
 
@@ -24,11 +17,12 @@ _Vitrine Humanités Numériques / DH Showcase 2019_
 
 <!-- .element: style="font-size:1.5rem" -->
 
+![logo CRSH](img/crsh.png) <!-- .element: class="logo" style="height:50px; background-color:ghostwhite;padding: 4px" -->
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:20%; background-color:ghostwhite;padding: 4px" --> ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 ===
 
-
+Le projet Revue 2.0 vise à repenser le rôle des revues savantes dans les sciences humaines et sociales et à accompagner les acteurs de l’édition scientifique dans leur transition numérique.
 
 §§§§§SLIDEmoveDown§§§§§
 <!-- .slide: data-background-image="graphics/equipeecrinum.png" data-background-size="contain" -->
@@ -37,83 +31,132 @@ _Vitrine Humanités Numériques / DH Showcase 2019_
 ## un travail d'équipe <!-- .element: style="padding-top:0.8em" -->
 
 
-%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="graphics/stylo_facebook.png" data-background-size="contain" data-transition="slide-out"-->
-<!-- .slide: class="hover" -->
-
-## Qu'est-ce que Stylo ? <!-- .element: style="padding-top:0.8em"  -->
-===
-
-Stylo est né de la conviction que, en tant qu'universitaire, il était fondamental de prendre autant soin des écrits que l'on étudiaient que de la chaine de production de l'écrit.
-
-Au tout début de Stylo, un constat et une frustration : de l'auteur au diffuseur en passant par l'éditeur, l'article scientifique dans les sciences humaines passe par des états et des formats tellement différents que ce processus, ou cette chaine éditoriale, engendre tout à la fois une perte considérable de temps, de données et de signification.
-
-Stylo défend une autre vision, dans laquelle chacun des acteurs, de l'auteur au diffuseur, est susceptible d'intervenir dans le processus de production du texte, du début à la fin. Cela est possible grâce au partage d'un format pivot unique, simple d'accès et d'utilisation, et suffisament riche pour l'édition de textes scientifiques en sciences humaines.
-
-[Or celle-ci est actuellement laissée aux mains de quelques entreprises qui ne poursuivent pas les mêmes objectifs que la recherche, notamment en sciences humaines]
-
-Stylo est une expérimentation, très locale, mais qui a une vocation de cheval de Troie dans l'Université, pour prendre à revers une direction peu attentive à la question épistémologique des outils qu'utilisent les chercheurs et les étudiants.
-
-
 §§§§§SLIDEmoveDown§§§§§
-<!-- .slide: data-background-image="graphics/stylo_3f_marqued.svg" data-background-size="contain" data-transition="fade-in slide-out"-->
+
+### Le partenariat
+
+- <i class="fa fa-arrow-right"></i>  des revues
+- <i class="fa fa-arrow-right"></i>  les diffuseurs
+- <i class="fa fa-arrow-right"></i>  des chercheurs
+
+<!-- .element: style="list-style-type:none;font-size:0.9em" -->
+
+
+&nbsp;
+
+![cybergeo](./img/cybergeo.png) <!-- .element: style="height:40px;background:whitesmoke;border:1px" -->
+![etudefrancaise](./img/etudesFrancaises.png) <!-- .element: style="height:40px;background:whitesmoke;border:1px" -->
+![intermedialites](./img/intermedialites.png)<!-- .element: style="height:40px;background:whitesmoke;border:1px" -->
+![itineraires](./img/itineraires.png) <!-- .element: style="height:40px;background:whitesmoke;border:1px" -->
+![memoireLivre](./img/memoiresLivre.jpg) <!-- .element: style="height:40px;background:whitesmoke;border:1px" -->
+![Photolitterature](./img/phlit.jpg) <!-- .element: style="height:40px;background:whitesmoke;border:1px" -->
+![erudit](./img/erudit.png) <!-- .element: style="padding:3px;height:40px;background:whitesmoke;border:1px" -->
+![openedition](./img/logo_openedition.png) <!-- .element: style="padding:3px;height:40px;background:whitesmoke;border:1px" -->
+![humanum](./img/humanum.png) <!-- .element: style="padding:3px;height:40px;background:whitesmoke;border:1px" -->
 
 ===
-Stylo est à la fois un outil de rédaction de texte scientifique et un outil d'édition de document scientifique. Cet agencement est permis par l'articulation de trois fichiers au coeur de son fonctionnement.
 
-- Le corps de texte, au format markdown
-- La bibliographie, au format bibtex
-- Les métadonnées, au format yaml
+Le projet rassemble un partenariat particulièrement intéressant :
 
-
-
-§§§§§SLIDEmoveDown§§§§§
-<!-- .slide: data-background-image="graphics/stylo_fullopen_marqued.png" data-background-size="contain" data-transition="slide-in"-->
-
-===
-Je vous montre ici l'interface complète, où l'on retrouve un éditeur de métadonnées, un gestionnaire de références, capable de se synchroniser avec une collection zotero en ligne. Le corps de texte au centre,
-
-Ainsi que plusieurs modules outillant nos trois sources : ajoutant des fonctionnalités de versionning, un sommaire, des statistiques sur le document et non visible ici un comparateur de version.
-
-§§§§§SLIDEmoveDown§§§§§
-<!-- .slide: data-transition="fade-in"-->
-
-![chaine](graphics/chaineSP_stylo_crihn.svg)
-Stylo dans la chaine éditoriale de _Sens Public_  
-
-<!-- .element: style="font-size:0.7em;" -->
-
-
-===
-Voici le schéma de la chaine éditoriale de la revue Sens public aujourd'hui, chaine très efficace puisque vous pouvez voir que les formats d'exports de Stylo sont multiples, et nous travaillons en ce moment à les enrichir, notamment avec des modèles de documents ciblés, comme les thèses et les mémoires, ou les monographies.
-
-Nous travaillons aussi à enrichir le texte lui-même, en proposant des éléments de sémantisation, en alignant certaines métadonnées avec des autorités (orcid Rameau), en faisant appel aux services d'enrichissement existant (comme Isidore à la de demande), ou encore en exploitant les références structurées via l'api de Zotero.
+1. d'une part il intègre les deux principaux diffuseurs francophones en sciences humaines et sociales, OpenEditions et Erudit, ainsi que Human-num et l'équipe d'Isidore qui est un agrégateur et moteur de recherche spécialisé pour les SHS
+2. d'autre part, 8 revues partenaires sont mobilisées pour participer en tant qu'expert de l'édition scientifique, mais aussi en tant que terrain d'observation et d'expérimentation, engagées ainsi dans la réflexion et l'implémantation de nouveaux modèles éditoriaux.
 
 §§§§§SLIDEmoveDown§§§§§
 
-#text/plain #lowTech #modularité #transparence #pérennité #littératie <!-- .element: style="font-size:3.2rem;" -->
+### Objectifs
+
+&nbsp;
+
+- <i class="fa fa-arrow-right"></i>  modèles épistémologiques
+- <i class="fa fa-arrow-right"></i>  modèles éditoriaux
+
+<!-- .element: style="list-style-type:none;" -->
 
 ===
-Stylo n'invente rien, nous n'avons fait qu'exploiter et mettre ensemble des principes et des outils existants, nous avons bricolé une interface simple agenceant les différents formats et outils de manière modulaire.
+C'est un des objectifs de recherche du projet.
 
-Stylo facilite et rend plus accessible le process d'édition, de versionning, d'indexation, de conversion vers les formats d'usages, le choix a bien été de conserver un accès direct à la matérialité text/plain des fichiers markdown, bibtex et yaml.
 
-C'est très low tech, mais cela garantie à la fois la pérennité longue de vos données, bien au delà de la vie de l'outils Stylo, mais aussi une transparence qui est un premier pas pour la transmission de cette littératie du numérique (savoir-lire-écrire-et-structurer).
+1. proposer un modèle épistémologique pour les revues savantes en shs à l'époque du numérique : il s'agira de retracer, par notre travail de recherche, la mission historique des revues savantes, afin de déterminer comment celle-ci peut être remplie, sinon redéfinie, à l'époque du numérique. L'enjeu de la transition numérique n'est en effet pas seulement une question technique : la généralisation du libre accès, par exemple, est typiquement le signe d'une réévaluation du rôle et de la mission de l'éditeur. En investissant peu à peu le web, la revue change le sens même du terme « publication » pour le rapporter à son sens premier : rendre public. Comment intégrer une revue, un dossier ou même un seul article dans un écosystème numérique en évolution constante ? Quelles doivent être aujourd'hui les tâches éditoriales, non plus seulement en amont de la publication, mais une fois que la revue a été publiée en ligne, afin de rejoindre les communautés savantes qui se sont formées sur le web ?
+2. proposer des modèles éditoriaux concrets, avec des outils adaptés aux pratiques, aux cultures et aux besoins : concrètement, il s'agira de
+produire un cahier des charges à destination des différents acteurs de l'édition savante (éditeurs, diffuseurs, agrégateurs).
+Nos partenaires sur ce projet - en particulier les diffuseurs et l'agrégateur - ont fourni d'importants efforts afin d'assurer
+l'intégration, la pérennité et la visibilité des revues sur le web. Ce projet devra leur donner des moyens supplémentaires
+pour la création d'outils et de protocoles mieux adaptés aux besoins des chercheurs et des éditeurs.
+
+
+
+- qu'est ce qu'une revue ?
+- qu'est ce qu'on voudrait qu'une revue soit ?
+
+- un enjeu de capacitation, d'empowerment, de littératie : accompagner les revues et leurs auteurs dans un apprentissage ciblé.
+
+§§§§§SLIDEmoveDown§§§§§
+
+### Pistes théoriques
+
+&nbsp;
+
+- <i class="fa fa-arrow-right"></i>  conversation
+- <i class="fa fa-arrow-right"></i>  espace public
+
+<!-- .element: style="list-style-type:none;" -->
+
+===
+
+- comment l'environnemnt numérique peut être mis au service d'un renouvellement de la vocation des revues ?
+- la piste  principale pour nous, c'est la conversation.
+ la revue, à l'époque où la possibilité de diffusion des contenus est mulitipliée par les possibilités du numérique, la piste, c'est d'aller revoir la vocation initiale des revues : d'être un espace pour la conversation savante.
+- la revue ne doit pas le lieu de la diffusion des résultats de recherche, c'est le lieu de la production des résultats de recherche de la communauté, surtout en shs.
+
+- la piste de l'espace public
+
+§§§§§SLIDEmoveDown§§§§§
+
+|périodes | phases|
+|:--|:--|
+|oct. 2018 | Lancement|
+|oct. 2018 - juin 2019 | Observation des pratiques|
+|juin-dec.  2019 | Conception   |
+|jan. 2020 - sept 2020  |Expérimentations   |
+|sept. 2020 - sept 2021  |Finalisations   |
+
+<!-- .element: style="font-size:0.5em; margin:10rem 20px 0 0; width:40%; float:left;" -->
+
+![calendrier-revue20](img/CalendrierActivités-small.svg)
+<!-- .element: style="background-color:ghostwhite; padding:0.1rem 0.3rem;height:40rem;" -->
+
+<!-- .element: style="width:40%;  float:left;" -->
+
+§§§§§SLIDEmoveDown§§§§§
+### Phase 1 - Observation des pratiques
+
+&nbsp;
+
+- <i class="fa fa-arrow-right"></i>  récolte de documents
+- <i class="fa fa-arrow-right"></i>  questionnaire
+- <i class="fa fa-arrow-right"></i>  entretiens
+- <i class="fa fa-arrow-right"></i>  génétique d'un article
+
+<!-- .element: style="list-style-type:none;" -->
+
+
+===
+La première phase du projet consiste à aller observer les pratiques des différents partenaires et en particulier à décrire le processus éditorial des revues. Cette description a pour objectif de comprendre le modèle épistémologique sous-jacent au fonctionnement des revues en SHS : quelles sont les voies de communication ? quels sont les artefacts technique ou éditoriaux participant à la construction de l'autorité ? pour le dire autrement, qui légitime, et comme se construit la légitimité de ce qui ?
+
+Cette phase mobilise les revues partenaires autour de quatre activités :
+
+1. la récolte de tous les documents qui sont produits ou utilisés pendant le processus éditorial de la revue
+2. un questionnaire dans lequel on va chercher à préciser d'un point de vue technique et pratique quels sont les acteurs de ce processus, tant les acteurs humains que les dispositifs et outils utilisés. Ce questionnaire associé aux documents livrés nous permettra de modéliser précisemment le processus éditorial de chaque revue,
+3. des entretiens avec les secretaires de rédaction et les directeurs et directrices de revue. Dans ces entretiens, l'on cherchera, à partir de la modélisation précise du processus éditorial, à identifier les problématiques des revues, à pointer les éléments saillants en terme d'autorité et de légitimation.
+4. enfin, nous exploiterons les données obtenues pour tenter une génétique d'un article, cad reconstruire son cycle de vie, depuis la rédaction et la soumission d'un article par un auteur jusqu'à sa diffusion.
+
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Merci !
 
 
-<i class="fa fa-arrow-right"></i> contribuer : [github.com/EcrituresNumeriques/stylo/](https://github.com/EcrituresNumeriques/stylo/)
-
-<!-- .element: style="font-size:0.7em;" -->
-
-<i class="fa fa-arrow-right"></i> écrire : [stylo.ecrituresnumeriques.ca](http://stylo.ecrituresnumeriques.ca/)
-
-<!-- .element: style="font-size:0.7em;" -->
-
-<i class="fa fa-arrow-right"></i> premiers pas : [stylo-doc.ecrituresnumerique.ca](http://stylo-doc.ecrituresnumerique.ca)
+<i class="fa fa-arrow-right"></i> [revue20.org](http://revue20.org)
 
 <!-- .element: style="font-size:0.7em;" -->
 
@@ -121,7 +164,3 @@ C'est très low tech, mais cela garantie à la fois la pérennité longue de vos
 ---
 ![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:25%; background-color:ghostwhite;padding: 7px" -->
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
-
-<i class="fa fa-arrow-right"></i> tuto : [youtu.be/qcwEqbcxBF8](https://www.youtube.com/watch?v=qcwEqbcxBF8)
