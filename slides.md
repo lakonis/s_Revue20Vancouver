@@ -83,9 +83,10 @@ Le projet est un projet Developpement Partenariat du CRSH, et a vocation à se p
 
 Fondamentalement, on se posera la question : «qu'est ce qu'une revue ?» «qu'est ce qu'une revue pourrait ou devrait être dans l'environnement numérique.»
 
-Nous essayons de retracer la mission historique des revues savantes, afin de déterminer comment celle-ci peut être remplie, sinon redéfinie, à l'époque du numérique. L'enjeu de la transition numérique n'est pas seulement une question technique. C'est d'abord une question épistémologique qui demande à réévaluer le rôle et la mission de l'éditeur. L'acte et le sens même de la publication s'est transformé avec l'avènement du web.
+Nous essayons de retracer la mission historique des revues savantes, afin de déterminer comment elle peut être redéfinie à l'époque du numérique. La transition numérique n'est pas seulement une question technique. C'est d'abord une question épistémologique qui demande à réévaluer la fonction de l'éditeur. L'acte et le sens même de la publication s'est transformé avec l'avènement du web.
 
-Publier revient à son sens premier : rendre public. Ce nouvel environnement a bouleversé la façon dont se construit l'autorité et la légitimité scientifique. C'est tout le fondement épistémologique sur lequel repose la science et les institutions académiques qui doit être repensé. Ce sera le premier objectif théorique du projet.
+Publier revient à son sens premier : rendre public. Ce nouvel environnement a bouleversé la façon dont se construit l'autorité et la légitimité scientifique.
+Et Ce sera le premier objectif théorique du projet de repenser le fondement épistémologique sur lequel repose la science et les institutions académiques.
 
 Pour le second, il s'agira de produire un cahier des charges à destination des différents acteurs de l'édition savante (éditeurs, diffuseurs, agrégateurs).
 
