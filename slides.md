@@ -1,6 +1,7 @@
 ### Publishing practices in scholarly journals : Preliminary results
 
-_Pratiques Éditoriales Des Revues Savantes : Résultats Préliminaires du Projet Revue 2.0_
+_Pratiques éditoriales des revues savantes -  
+résultats préliminaires du projet Revue 2.0_
 
 Nicolas Sauret, Juliette De Maeyer,  
 Jeanne Hourez, Margot Mellet, Servanne Monjour, Marcello Vitali-Rosati
@@ -13,10 +14,11 @@ _CCA Annual Conference 2019 / Colloque annuel AAC 2019_
 
 ---
 
-slides: [nicolassauret.net/s_Revue20Vancouver](http://nicolassauret.net/s_Revue20Vancouver) ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+slides: [nicolassauret.net/s_Revue20Vancouver](http://nicolassauret.net/s_Revue20Vancouver)
 
 <!-- .element: style="font-size:1.5rem" -->
 
+![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 
 ===
@@ -75,7 +77,7 @@ C'est donc comme d'habitude un travail d'équipe.
 <!-- .element: style="list-style-type:none;" -->
 
 ===
-The project Revue2.0 aims at _rethinking_ the role played by the scholarly journals in the humanities, and at _assisting_ the actors the scholarly publishing in the digital transition.
+The project Revue2.0 aims at think over the role played by the scholarly journals in the humanities, and at guide the actors of the scholarly publishing into their digital transition.
 
 It has two objectives:
 
@@ -84,15 +86,15 @@ It has two objectives:
 
 The main question we are asking with this project is : "what is a journal ?" and "what could be and should be a scholarly journal in the digital environnement"
 
-To answer this question, we retrace the historical mission of the scholarly journals, in order to determine how it can be redefined in the digital era. The digital transition is not only a technical question. Above all, it is an epistemological question which requires to reevaluate the fonctions of publishing. The very act and the meaning of publishing has been renewed with the _avènement_ world wide web.
+To answer this question, we retrace the historical mission of the scholarly journals, in order to determine how it can be redefined in the digital era. The digital transition is not only a technical question. Above all, it is an epistemological question which requires to reevaluate the fonctions of publishing. The very act and the meaning of publishing has been renewed with the advent of the world wide web, as global publishing environement.
 
 Publishing gets back to it original meaning : make public. In that case, how does the digital environnement change the way the autority and the scientific legitimacy are produced ?
 
-That will be the first theoritical objective : to _rethink_ the epistemological _fondations_ on which human sciences and academic institutions are based.
+That will be the first theoritical objective : to think over the epistemological fondations on which human sciences and academic institutions are based.
 
-The second objective will consist in producing a _cahier des charges_ addressed to the actors of scholarly publishing (editors, publishers, curation and diffusion platforms).
+The second objective will consist in producing specifications addressed to the actors of scholarly publishing (the editors, publishers, curation and diffusion platforms).
 
-What is at stake is the empowerment of the practitionners, publishers but of course scholars and authors, towards a digital literacy.
+What is at stake is the empowerment of those practitionners, the publishers, but also of course the scholars and the authors, towards a digital literacy.
 
 ---
 
@@ -146,7 +148,7 @@ Il y a là un enjeu de capacitation des praticiens de l'édition, mais aussi des
 The project gathers a interesting partnership :
 
 1. It includes the two main francophone diffusion platforme for human science, OpenEdition and Erudit, as well as the agregator and search engine Isidore Science, dedicated to human sciences, which is a service offered by the french infrastructure Huma-Num.
-2. the project mobilze eight scholarly journals, who participate as expert in scholarly publishing, but also as a research field for observation and experimentation of publishing practices. The journals are engaged in the research, together with the scholars involved.
+2. the project mobilze eight scholarly journals, who participate as expert in scholarly publishing, but also as a research field for observation and experimentation of publishing practices. The journals are fully engaged in the research, together with the scholars involved.
 
 ---
 
@@ -169,11 +171,11 @@ Le projet rassemble un partenariat particulièrement intéressant :
 
 ===
 
-The environnement in which we read, write and publish has been radically transformed. The digital environnement produces a totaly different space structure, impacting how the autority is produced. Publishing, and more precisely the "Editorialization", a concept coined by Marcello Vitali Rosati (and others), are the very process of space production, and not only the digital space.
+The environnement in which we read, write and publish has been radically transformed. The digital environnement produces a totaly different space structure, impacting how the autority is produced. Publishing, and more precisely the "Editorialization", a concept coined by Marcello Vitali Rosati (and others), are the very process of space production, and not only the digital space, since maintaining this distinction does not make anymore sense.
 
-One of the theoritical orientation is that the journal, as a publishing and editorialisation practice, is an opportunity to retrieve the public space, not only by opening the scientific conversation to the society, but rather by creating new forms of public space.
+One of the theoritical orientation is that the journal, as a publishing and editorialisation practice, is an opportunity to retrieve the public space, not only by opening the scientific conversation to the society, but rather by creating new forms of public space. And that's what we will explore during this project, together with the journals.
 
-A second theoritical trail is the conversation. We draw from the analysis that the great scientific conversation occurs in alternatives spaces : blogs, social networks, curation plateforms, maillist, etc. Our hypothesis is that journal could develop a conversationnal publishing model,
+A second theoritical trail is the conversation. We draw from the analysis that the great scientific conversation occurs in alternatives spaces : blogs, social networks, curation plateforms, maillist, etc. Those spaces are not recognized as such by the academic institutions. This activity is kept mainly of the radar of the institution. Our hypothesis is that journal could develop a conversationnal publishing model, which would force the institutions to recognize different writing and publishing practices, and therefore to welcome back those alternative contributions.
 
 ---
 
@@ -185,14 +187,13 @@ Une seconde piste théorique, est celle de la conversation. A partir du constat 
 
 §§§§§SLIDEmoveDown§§§§§
 
-
-|time periods             | phases        |
+|time periods  | phases   |
 |:--|:--|
-|Oct. 2018                | Launching     |
-|Oct. 2018 - June 2019    | Observing     |
-|June-Dec.  2019          | Designing     |
-|Jan. 2020 - Sept. 2020   | Experimenting |
-|Sept. 2020 - Sept. 2021  | Conclusion    |
+|Oct. 2018    | Launching  |
+|Oct. 2018 - June 2019 | Observing |
+|June-Dec. 2019 | Designing |
+|Jan. 2020 - Sept. 2020 | Experimenting |
+|Sept. 2020 - Sept. 2021 | Conclusion |
 
 <!-- .element: style="font-size:0.5em; margin:10rem 20px 0 0; width:40%; float:left;" -->
 
@@ -200,6 +201,7 @@ Une seconde piste théorique, est celle de la conversation. A partir du constat 
 <!-- .element: style="background-color:ghostwhite; padding:0.1rem 0.3rem;height:40rem;" -->
 
 <!-- .element: style="width:40%;  float:left;" -->
+
 
 ===
 
@@ -213,6 +215,13 @@ le projet dure 3 ans. Nous l'avons découpé en 3 phases : observations des prat
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Phase 1 - practices observation / _Observation des pratiques_
 
+===
+
+We started in October last year.
+
+The first phase of the project was dedicated to observe the practices of the journals and more specificaly to describe their publishing process. The objective of this description was to understand the epistemological model on which rely the work in the journal : what are the communication channels ? what are the technical and editorial artefacts producing autority ? in other words, who legitimate, and how ?
+
+
 §§§§§SLIDEmoveDown§§§§§
 ### P1 - Methodology / _Méthodologie_
 
@@ -220,24 +229,21 @@ le projet dure 3 ans. Nous l'avons découpé en 3 phases : observations des prat
 &nbsp;
 
 - <i class="fa fa-arrow-right"></i>  collecting documents / _récolte de documents_
-- <i class="fa fa-arrow-right"></i>  _questionnaire_ / _questionnaire_
+- <i class="fa fa-arrow-right"></i>  online survey / _questionnaire_
 - <i class="fa fa-arrow-right"></i>  interviews / _entretiens_
-- <i class="fa fa-arrow-right"></i>  genetic of an article / _génétique d'un article_
+- <i class="fa fa-arrow-right"></i>  genetics of an article / _génétique d'un article_
 
 <!-- .element: style="list-style-type:none;" -->
 
 
 ===
-We started in October last year.
-
-The first phase of the project was dedicated to observe the practices of the journals and more specificaly to describe their publishing process. The objective of this description was to understand the epistemological model on which rely the work in the journal : what are the communication channels ? what are the technical and editorial artefacts producing autority ? in other words, who legitimate, and how ?
 
 The observation articulates around 4 activities :
 
 1. The collect of every document produced or used during the publishing process
 2. an online survey in which we try to determine who are the actors of the process : as much the human actors as the diff. tools and apparatus. This questionnaire, together with the collected documents, allowed us to precisely modelise the publishing process for each journal.
 3. third activities, the interviews lead with the editors and the directors of the journal. They were usefull to identify the needs and problems of the journals, and to understand where really occurs the production of autority and legitimacy.
-4. Finally, we will make use of all the data to produce a sort of genetic of an article, by modelising its life cycle, from its writing and submission to its diffusion.
+4. Finally, we will make use of all the data to produce a sort of genetics or genesis of an article, by modelising its life cycle, from its writing and submission to its diffusion.
 
 ---
 
@@ -274,6 +280,9 @@ Instead of going in the detail of each publishing process modelisation, I chose 
 
 ### there is no model
 
+- <i class="fa fa-arrow-right"></i>  diversity of models
+- <i class="fa fa-arrow-right"></i>  multiplicity of epistemological regime
+
 ===
 
 Despite the similarities of tools, apparatus, general process, there is no such thing than a unique publishing model in human science. In contrary the diversity of the publishing process is remarkable from one journal to another.
@@ -291,19 +300,28 @@ There is a multiplicity of epistemological regim.
 
 ### constant negociation
 
+- <i class="fa fa-arrow-right"></i>  negociating the ideal
+- <i class="fa fa-arrow-right"></i>  twisting the protocol
+
 ===
 
 Another interesting and recurrent aspect is the constant negociation the different actors are performing during the process. What do they negociate with ?
 
 They constantly negociate the ideal model they pretend to follow, their own protocol supposed to ensure the scientificity of the journal. This is a very interesting outputs from the interviews. From the generic documents and the survey, we were able to draw quite a precise workflow of each journal process, which allowed us to locate where the decision were made.
 
-However, the interviews showed us that at every step of the workflow, the reality takes over the ideality, and that the decisions to select, refuse or autorize an article are eventually made through a serie of discussions that jeopardizes the declared protocol.
+However, the interviews showed us that at every step of the workflow, the reality takes over the ideal, and that the decisions to select, refuse or authorize an article are eventually made through a serie of discussions that come twisting the declared protocol.
 
-Definitely in Human Science, rules are made to be transgressed, but this is no surprise. Who really believe that humanities could be quantified and modelised....? this is a joke. Or maybe humanities are all about debate and conversation, and requires critical thinking rather than protocols.
+Definitely in Human Science, rules are made to be transgressed, but this is no surprise. Who really believe that humanities could be quantified and modelised....? this is a joke.
+
+Or maybe humanities are all about debate and conversation, and requires constant critical thinking above research protocols.
 
 §§§§§SLIDEmoveDown§§§§§
 
 ### Internal / external
+
+- <i class="fa fa-arrow-right"></i>  authors
+- <i class="fa fa-arrow-right"></i>  reviewers
+- <i class="fa fa-arrow-right"></i>  issue directors
 
 
 ===
@@ -314,13 +332,13 @@ how do the individual involved in the daily life of the journal consider the iss
 
 This tension occurs on different levels of the editorial process and addresses different actors.
 
-From one journal to another, the reviewing experts for instance could be 1) "friends", aware of the editorial policy of the journal and knowing what is expected, 2) authors that have already published, or in contrary total strangers, with no precedent relation to the journal, like for the journal Intermedialités.
+From one journal to another, the reviewing experts for instance could be 1) "friends", aware of the editorial policy of the journal and knowing what is expected, 2) or could be authors that have already published, or in contrary  3) strangers, with no precedent relation to the journal, like for the journal Intermedialités.
 
 [Axes sur les reviewers]
 
-We often forsee a journal as a community, made of a scientific committee, an editorial team, readers, regular authors, reviewers, issue directors, nonetheless, this community has to be distinguished from the inner family. Our discussion with the journal directors showed us that this distinction is maintained in purpose, from the belief that the fewer porosity there is between the journal and the external, the better the journal can maintain its scientificity.
+We often perceive a journal as a community, made of a scientific committee, an editorial team, readers, regular authors, reviewers, issue directors, nonetheless, this community is split into the inner family and the external world. Our discussion with the journal directors showed us that this distinction is maintained in purpose, drawing from the belief that the fewer porosity there is between the journal and the external, the better the journal can maintain its scientificity.
 
-In particular, the case of the issue director: how much she's involved in the evaluation and decision process, her degree of autonomy, the degree of collaboration with the committee. It can be used to caracterize the porosity between the internal and the external, and to go further, to categorize the journal in categories that are yet to be defined.
+In particular, in the case of the issue director: how much she is involved in the evaluation and decision process, her degree of autonomy, the degree of collaboration with the committee. It can be used to caracterize the porosity between the internal and the external, and to go further, to categorize the journal, in categories of publishing models that are yet to be defined.
 
 [Axes sur les issues directors collaboration / autonomie ]
 
@@ -328,21 +346,26 @@ In particular, the case of the issue director: how much she's involved in the ev
 
 ### evaluation and legitmation
 
+- <i class="fa fa-arrow-right"></i>  decision process
+- <i class="fa fa-arrow-right"></i>  decision makers
+
+
+
 ===
 
 Let's illustrate the precedent assessments with what we observed in terms of evaluation and legitimation.
 
 Where is the authority located ? what produces it ? what, in the the editorial protocol, legitimates the article, the author, or more generally the journal itself ?
 
-When we interviewed the individual, it was rather obvious that the legitimation is not an _exact_ science. It results from a multiplicity of decision makers, enacting their function all along the protocol. For each journal, those decisions are not from the same nature, do not have the same value, and are not occurring in the same steps.
+When we interviewed the individual, it was rather obvious that the legitimation is not an _exact_ science. It results from a multiplicity of decision makers, enacting their function all along the protocol. For each journal, those decisions are not of the same nature, do not have the same value, and are not occurring in the same steps.
 
-For instance, Etudes Françaises focuses its selection on the overall issue proposal, that is brought first to the journal with the articles all ready to be reviewed. The first step in the process is the selection (or not) of the issue, the decision is taken internally and, according to the journal director we interviews, this decision first legitimates the issue problematic.
+For instance, Etudes Françaises focuses its selection on the overall issue proposal, that is brought first to the journal with all the articles ready to be reviewed and edited. The first step in the process is the selection (or not) of the issue, the decision is taken internally and, according to the journal director we interviewed, this decision first legitimates the issue problematic.
 
 Another instance of legitimation is directly linked to the reviewing process. The journals traditionnally have internal reviewing and external reviewing. But the legitimacy put into the reviewing won't be the same if you take into account how and who validates the reviewing, whether the reviews are transmitted to the authors or not, whether they are filtered or edited by the committee during the process.
 
-For instance, the external reviews of the journal Intermedialités are in general taken in face value, and the reviewers anonymity is kept intact during the whole process. The legitimacy value is therefore vers high. On the contrary, committees of other journals, sometimes aware or not of the reviewers identity, will actively counterbalance the external reviews. It proceed by internal discussion, or by internal reviews (which can be single blind or open review). According to the journal, the decision is eventually made on the internal review or from the internal discussion of the committee.
+For instance, the external reviews of the journal Intermedialités are in general taken in face value, and the reviewers anonymity is kept intact during the whole process, even for the committee. The legitimacy value is therefore vers high. On the contrary, committees of other journals, sometimes aware of the reviewers identity, sometimes not, will actively counterbalance the external reviews. It proceeds by internal discussion, or by internal reviews (which can be single blind, which can be open review). Depending on the journal, the decision is eventually made, based on the internal review or from the internal discussion of the committee.
 
-And as we have discussed earlier, the neutralization of external reviews may also include the issue director's opinion, which complexifies the decision process, but most importantly, by opening the decision process, it also reduces the value put into the external review.
+And as we have discussed earlier, the neutralization of external reviews may also include the issue director's opinion, which complexifies the decision process, but most importantly, by opening this process, it also reduces the value put into the external review.
 
 Therefore, despite of the shared reviewing process, we conclude that the legitimating authority will not locate at the same place from one journal to another.
 
@@ -359,20 +382,24 @@ Ainsi, malgré ce schéma constant d'évaluation externe, parfois interne, l'ins
 
 ### Digital / conversation
 
+- <i class="fa fa-arrow-right"></i>  increasing the reach
+- <i class="fa fa-arrow-right"></i>  loosing symbolic capital
+
+
 ===
-The issue of the Digital in the publishing practices was brought up for every interviews.
 
-The first result is that for the majority of editors and directors, digital is all about diffusion, and not much else. They insist on the fact that publishing online enlarged their readers reach, even if this augmentation came together with a lost of control of who and where those readers are. Indeed, The diffusion platform such as Erudit or OpenEdition are not able to report properly the usage. Whereas the paper diffusion used to go through direct subscription to the papers allowing a human and institutional contact that is lost nowadays with diffusion platforms.
+Another issue that we brought up during the interviews is the impact of the Digital in the publishing practices.
 
-This lost is first of all a symbolic lost. Journal directors have this feeling to have lost symbolic capital from the fact that they don't know anymore whether if the Bodleian Libraries of Oxford have their issues on their desks, or whether the Moma is still buying the online version of
+The first result is that for the majority of editors and directors, digital is all about diffusion, and not much else. They insist on the fact that publishing online increased their reach to more readers, even if this augmentation came together with a lost of control of who and where those readers are. Indeed, The diffusion platform such as Erudit or OpenEdition are not able to report properly the usage. Whereas the paper diffusion used to go through direct subscription to the papers allowing a human and institutional contact that is lost nowadays with diffusion platforms.
 
-- pratiques d'accès (à l'article via google)
-
-On the editorial side, digital changed nothing if we listen to the editor and director. They still edit in word, adding abslolutely no data value into their content, letting the diffusion plateform process and edit all the metadata.
-
-We consider there a major breach in the scientific work of the scholarly journal, eventhough the platforms are taking this aspect seriously. The journal are not in control of their own data, on how they appear in the web. They put so much value in the text of the article, and so few in presenting this text in a coherent manner for the search engine.
+This lost is first of all a symbolic lost. Journal directors have this feeling that some symbolic capital has gone away from the fact that they don't know anymore whether if the Bodleian Libraries of Oxford have their issues on their desks, or whether the Moma is still buying their online version.
 
 
+if we listen to the editor and director, digital changed nothing on the editor work. They edited in Microsoft Word before their journal was put online, and still do, adding absolutely no data value into their content, letting the diffusion plateform process and edit all the metadata.
+
+Yet, we know very well that the access to article and journal is now mainly going through search engine. Metadatas are therefore the main mean to access and reach an article in the ocean of scientific publications.
+
+We consider there is a major breach here in the scientific work of the scholarly journal, eventhough the platforms are taking the metadata aspect seriously. The journal are not in control of their own data, on how they appear in the web. They put so much value in the text of the article, and so few in presenting this text in a coherent manner for the search engine.
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Merci !
